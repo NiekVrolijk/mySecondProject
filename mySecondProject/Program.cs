@@ -35,6 +35,9 @@ namespace mySecondProject
             //double
             double simplepi = 3.1415;
 
+            //boolian
+            bool lovesCat = true;
+
 
 
 
