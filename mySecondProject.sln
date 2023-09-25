@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mySecondProject", "mySecond
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scrpt2", "scrpt2", "{DF8B9E65-D15C-4479-B207-1059819F2AC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week1", "week1\week1.csproj", "{B08373BD-B4AA-4877-B657-B3041316A689}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week1", "week2\week1.csproj", "{36E41ACE-EE13-46D2-A777-BBD6C7C6F9A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,16 +19,16 @@ Global
 		{69C46D2A-08BD-4D1B-ABA4-2A3271680AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C46D2A-08BD-4D1B-ABA4-2A3271680AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C46D2A-08BD-4D1B-ABA4-2A3271680AAF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B08373BD-B4AA-4877-B657-B3041316A689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B08373BD-B4AA-4877-B657-B3041316A689}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B08373BD-B4AA-4877-B657-B3041316A689}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B08373BD-B4AA-4877-B657-B3041316A689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E41ACE-EE13-46D2-A777-BBD6C7C6F9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E41ACE-EE13-46D2-A777-BBD6C7C6F9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E41ACE-EE13-46D2-A777-BBD6C7C6F9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E41ACE-EE13-46D2-A777-BBD6C7C6F9A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B08373BD-B4AA-4877-B657-B3041316A689} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
+		{36E41ACE-EE13-46D2-A777-BBD6C7C6F9A6} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC4B2299-BAFE-443E-A38F-567FA4834002}
