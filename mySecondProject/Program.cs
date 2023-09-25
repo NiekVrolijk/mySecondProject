@@ -26,7 +26,7 @@ namespace mySecondProject
             //second one is character veriable
             char myFarvoriteOneEver = ';';
 
-            //interger
+            //interge
             int age = 41;
 
             //float
