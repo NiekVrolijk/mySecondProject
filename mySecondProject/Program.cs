@@ -40,13 +40,13 @@ namespace mySecondProject
             //bool lovesCat = true;
 
             //user imput
-            string userImput;
-            int userAge;
-            int expectedAge = 18;
+            string userInput;
+            string userAge;
+            string expectedAge = "17";
 
             //user imput variables
-            string userImputName;
-            string userImputPassword;
+            string userInputName;
+            string userInputPassword;
 
             //v for expected values
 
@@ -74,31 +74,33 @@ namespace mySecondProject
                         Console.WriteLine($"my name is {userName} and i am {age} years old");
             */
 
-            //age checker in progress
 
+            ////age checker in progress
             //Console.Write("please enter your name: ");
-            //userImput = Console.ReadLine();
-            //Console.WriteLine($"hi {userImput}");
+            //userInput = Console.ReadLine();
+            //Console.WriteLine($"hi {userInput}");
             //Console.Write("please also give me your age: ");
-            //userAge = Console.Read();
-            //if (userAge > expectedAge)
+            //userAge = Console.ReadLine();
+            //int age = int.Parse(userAge);
+            //int eAge = int.Parse(expectedAge);
+            //if (age > eAge)
             //{
-            //    Console.WriteLine($"hi {userImput}, age {userAge}");
+            //    Console.WriteLine($"hi {userInput}, age {userAge}");
             //}
             //else
             //{
-            //    Console.WriteLine($"sorry {userImput} you're not old enough");
+            //    Console.WriteLine($"sorry {userInput} you're not old enough");
             //}
 
 
-            //password defender
+            ////password defender
             //    Console.Write("please enter your name: ");
-            //    userImputName = Console.ReadLine();
+            //    userInputName = Console.ReadLine();
 
             //    Console.Write("please enter your password: ");
-            //    userImputPassword = Console.ReadLine();
+            //    userInputPassword = Console.ReadLine();
 
-            //    if (userImputName == expectedName && userImputPassword == expectedPassword)
+            //    if (userInputName == expectedName && userInputPassword == expectedPassword)
             //    {
             //        Console.WriteLine("wow it's you");
             //    }
@@ -108,18 +110,18 @@ namespace mySecondProject
             //    }
 
 
-            //amore
-            Console.Write("Does the moon hit your eyes like a big pizza pie: ");
-            whenTheMoonHitsYourEyesLikeABigPizzaPie = Console.ReadLine();
-            if (whenTheMoonHitsYourEyesLikeABigPizzaPie == "yes")
-            {
-                Console.Write("That's amore");
+            ////amore
+            //Console.Write("Does the moon hit your eyes like a big pizza pie: ");
+            //whenTheMoonHitsYourEyesLikeABigPizzaPie = Console.ReadLine();
+            //if (whenTheMoonHitsYourEyesLikeABigPizzaPie == "yes")
+            //{
+            //    Console.Write("That's amore");
 
-            }
-            else
-            {
-                Console.Write("That's not amore");
-            }
+            //}
+            //else
+            //{
+            //    Console.Write("That's not amore");
+            //}
 
             #endregion
 
