@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\bin\Debug\net6.0\anotherOne.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\bin\Debug\net6.0\anotherOne.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\bin\Debug\net6.0\anotherOne.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\bin\Debug\net6.0\anotherOne.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\bin\Debug\net6.0\anotherOne.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\obj\Debug\net6.0\anotherOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\obj\Debug\net6.0\anotherOne.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\obj\Debug\net6.0\anotherOne.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\obj\Debug\net6.0\anotherOne.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\obj\Debug\net6.0\anotherOne.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\obj\Debug\net6.0\refint\anotherOne.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\obj\Debug\net6.0\anotherOne.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\obj\Debug\net6.0\anotherOne.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\anotherOne\obj\Debug\net6.0\ref\anotherOne.dll
