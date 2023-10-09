@@ -75,7 +75,7 @@ namespace mySecondProject
             */
 
 
-            ////age checker in progress
+            ////age checker
             //Console.Write("please enter your name: ");
             //userInput = Console.ReadLine();
             //Console.WriteLine($"hi {userInput}");
