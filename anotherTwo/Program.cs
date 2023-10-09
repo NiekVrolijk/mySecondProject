@@ -12,7 +12,7 @@
             AddsFive();
             AddsFive();
             AddsFive();
-
+            AddsOneMoreEveryTime();
 
             void AddsFive()
             {
@@ -23,7 +23,8 @@
             void AddsOneMoreEveryTime()
             {
                 anotherNum += 1;
-                Console.WriteLine(num);
+                anotherNum += anotherNum ++;
+                Console.WriteLine(anotherNum);
             }
 
         }
