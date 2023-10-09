@@ -13,38 +13,47 @@
             string choice;
 
             //stuff 
+            menu();
+            choices();
 
-            Console.WriteLine("what would you like to do?");
-            Console.WriteLine("A: add");
-            Console.WriteLine("B: subtract");
-            Console.WriteLine("C: multiply");
-            Console.WriteLine("D: divide");
-            Console.WriteLine();
-
-            choice = Console.ReadLine();
-            if (choice == "A" || choice == "a" || choice == "add")
+            void menu()
             {
-                Calculator();
-                AddNumbers();
-            }
-            else if (choice == "B" || choice == "b" || choice == "subtract")
-            {
-                Calculator();
-                SubtractNumbers();
-            }
-            else if (choice == "C" || choice == "c" || choice == "multiply")
-            {
-                Calculator();
-                MultiplyNumbers();
-            }
-            else if (choice == "D" || choice == "d" || choice == "divide")
-            {
-                Calculator();
-                DivideNumbers();
-            } else
-            {
+                Console.WriteLine("what would you like to do?");
+                Console.WriteLine("A: add");
+                Console.WriteLine("B: subtract");
+                Console.WriteLine("C: multiply");
+                Console.WriteLine("D: divide");
                 Console.WriteLine();
-                Console.WriteLine("that is not one of the given options");
+            }
+
+            void choices()
+            {
+                choice = Console.ReadLine();
+                if (choice == "A" || choice == "a" || choice == "add")
+                {
+                    Calculator();
+                    AddNumbers();
+                }
+                else if (choice == "B" || choice == "b" || choice == "subtract")
+                {
+                    Calculator();
+                    SubtractNumbers();
+                }
+                else if (choice == "C" || choice == "c" || choice == "multiply")
+                {
+                    Calculator();
+                    MultiplyNumbers();
+                }
+                else if (choice == "D" || choice == "d" || choice == "divide")
+                {
+                    Calculator();
+                    DivideNumbers();
+                }
+                else
+                {
+                    Console.WriteLine();
+                    Console.WriteLine("that is not one of the given options");
+                }
             }
 
             //methods
