@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         #region question 1/4
-        /* Q1: a variable is a piece if code that is remembered by the program and can be assined different values depending
+        /* Q1: a variable is a piece of code that is remembered by the program and can be assined different values depending
         on the type of veriable*/
         /* Q2:  the type of variable (like bool), the name of the variable (like redLight), 
            and the value (like true (incase of a bool))*/

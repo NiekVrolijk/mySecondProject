@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculator", "calculator\ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "anotherTwo", "anotherTwo\anotherTwo.csproj", "{C836464B-D021-44E2-9005-6EBF82824DC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scriptingTest", "scriptingTest\scriptingTest.csproj", "{021ED95E-B75C-4E94-AEAE-D0BF08E9617C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "scriptingTest", "scriptingTest\scriptingTest.csproj", "{021ED95E-B75C-4E94-AEAE-D0BF08E9617C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDK", "IDK\IDK.csproj", "{DA71BA5A-4148-41DB-BAF3-41F68111AEFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{021ED95E-B75C-4E94-AEAE-D0BF08E9617C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021ED95E-B75C-4E94-AEAE-D0BF08E9617C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021ED95E-B75C-4E94-AEAE-D0BF08E9617C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA71BA5A-4148-41DB-BAF3-41F68111AEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA71BA5A-4148-41DB-BAF3-41F68111AEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA71BA5A-4148-41DB-BAF3-41F68111AEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA71BA5A-4148-41DB-BAF3-41F68111AEFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,6 +63,7 @@ Global
 		{99CFFDFA-5226-4760-9B22-4862762944F4} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 		{C836464B-D021-44E2-9005-6EBF82824DC1} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 		{021ED95E-B75C-4E94-AEAE-D0BF08E9617C} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
+		{DA71BA5A-4148-41DB-BAF3-41F68111AEFF} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC4B2299-BAFE-443E-A38F-567FA4834002}
