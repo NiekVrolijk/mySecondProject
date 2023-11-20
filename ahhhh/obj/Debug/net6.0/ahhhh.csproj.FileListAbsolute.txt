@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\bin\Debug\net6.0\ahhhh.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\bin\Debug\net6.0\ahhhh.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\bin\Debug\net6.0\ahhhh.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\bin\Debug\net6.0\ahhhh.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\bin\Debug\net6.0\ahhhh.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\obj\Debug\net6.0\ahhhh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\obj\Debug\net6.0\ahhhh.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\obj\Debug\net6.0\ahhhh.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\obj\Debug\net6.0\ahhhh.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\obj\Debug\net6.0\ahhhh.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\obj\Debug\net6.0\refint\ahhhh.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\obj\Debug\net6.0\ahhhh.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\obj\Debug\net6.0\ahhhh.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\ahhhh\obj\Debug\net6.0\ref\ahhhh.dll
