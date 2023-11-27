@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\bin\Debug\net6.0\27-11-2023.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\bin\Debug\net6.0\27-11-2023.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\bin\Debug\net6.0\27-11-2023.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\bin\Debug\net6.0\27-11-2023.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\bin\Debug\net6.0\27-11-2023.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\obj\Debug\net6.0\27-11-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\obj\Debug\net6.0\27-11-2023.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\obj\Debug\net6.0\27-11-2023.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\obj\Debug\net6.0\27-11-2023.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\obj\Debug\net6.0\27-11-2023.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\obj\Debug\net6.0\refint\27-11-2023.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\obj\Debug\net6.0\27-11-2023.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\obj\Debug\net6.0\27-11-2023.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\27-11-2023\obj\Debug\net6.0\ref\27-11-2023.dll
