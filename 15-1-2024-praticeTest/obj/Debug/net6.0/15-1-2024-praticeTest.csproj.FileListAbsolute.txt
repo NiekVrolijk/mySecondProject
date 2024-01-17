@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\bin\Debug\net6.0\15-1-2024-praticeTest.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\bin\Debug\net6.0\15-1-2024-praticeTest.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\bin\Debug\net6.0\15-1-2024-praticeTest.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\bin\Debug\net6.0\15-1-2024-praticeTest.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\bin\Debug\net6.0\15-1-2024-praticeTest.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\obj\Debug\net6.0\15-1-2024-praticeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\obj\Debug\net6.0\15-1-2024-praticeTest.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\obj\Debug\net6.0\15-1-2024-praticeTest.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\obj\Debug\net6.0\15-1-2024-praticeTest.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\obj\Debug\net6.0\15-1-2024-praticeTest.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\obj\Debug\net6.0\refint\15-1-2024-praticeTest.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\obj\Debug\net6.0\15-1-2024-praticeTest.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\obj\Debug\net6.0\15-1-2024-praticeTest.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\15-1-2024-praticeTest\obj\Debug\net6.0\ref\15-1-2024-praticeTest.dll
