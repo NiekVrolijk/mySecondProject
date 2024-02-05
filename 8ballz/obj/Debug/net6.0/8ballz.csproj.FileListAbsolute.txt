@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\bin\Debug\net6.0\8ballz.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\bin\Debug\net6.0\8ballz.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\bin\Debug\net6.0\8ballz.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\bin\Debug\net6.0\8ballz.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\bin\Debug\net6.0\8ballz.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\obj\Debug\net6.0\8ballz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\obj\Debug\net6.0\8ballz.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\obj\Debug\net6.0\8ballz.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\obj\Debug\net6.0\8ballz.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\obj\Debug\net6.0\8ballz.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\obj\Debug\net6.0\refint\8ballz.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\obj\Debug\net6.0\8ballz.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\obj\Debug\net6.0\8ballz.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\8ballz\obj\Debug\net6.0\ref\8ballz.dll
