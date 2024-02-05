@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\bin\Debug\net6.0\scriptingtest2.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\bin\Debug\net6.0\scriptingtest2.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\bin\Debug\net6.0\scriptingtest2.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\bin\Debug\net6.0\scriptingtest2.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\bin\Debug\net6.0\scriptingtest2.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\obj\Debug\net6.0\scriptingtest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\obj\Debug\net6.0\scriptingtest2.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\obj\Debug\net6.0\scriptingtest2.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\obj\Debug\net6.0\scriptingtest2.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\obj\Debug\net6.0\scriptingtest2.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\obj\Debug\net6.0\refint\scriptingtest2.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\obj\Debug\net6.0\scriptingtest2.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\obj\Debug\net6.0\scriptingtest2.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\scriptingtest2\obj\Debug\net6.0\ref\scriptingtest2.dll
