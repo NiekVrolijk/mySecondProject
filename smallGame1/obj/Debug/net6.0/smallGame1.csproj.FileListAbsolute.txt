@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\bin\Debug\net6.0\smallGame1.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\bin\Debug\net6.0\smallGame1.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\bin\Debug\net6.0\smallGame1.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\bin\Debug\net6.0\smallGame1.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\bin\Debug\net6.0\smallGame1.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\obj\Debug\net6.0\smallGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\obj\Debug\net6.0\smallGame1.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\obj\Debug\net6.0\smallGame1.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\obj\Debug\net6.0\smallGame1.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\obj\Debug\net6.0\smallGame1.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\obj\Debug\net6.0\refint\smallGame1.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\obj\Debug\net6.0\smallGame1.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\obj\Debug\net6.0\smallGame1.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\smallGame1\obj\Debug\net6.0\ref\smallGame1.dll
