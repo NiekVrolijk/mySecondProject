@@ -1,0 +1,4 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\Cheat_Sheet2\obj\Debug\net6.0\Cheat_Sheet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\Cheat_Sheet2\obj\Debug\net6.0\Cheat_Sheet2.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\Cheat_Sheet2\obj\Debug\net6.0\Cheat_Sheet2.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\Cheat_Sheet2\obj\Debug\net6.0\Cheat_Sheet2.csproj.CoreCompileInputs.cache
