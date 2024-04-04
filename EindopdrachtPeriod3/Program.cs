@@ -62,7 +62,7 @@ namespace EindopdrachtPeriod3
                 switch (choice)
                 {
                     case 1:
-                        GenerateForestMap();
+                        //GenerateForestMap();
                         ShowForestMap();
                         Console.WriteLine("what would you like to do?");
                         InForest();
@@ -169,7 +169,7 @@ namespace EindopdrachtPeriod3
                     case 1:
                         if (!goblinAlive)
                         {
-                            GenerateForestMap();
+                            //GenerateForestMap();
                             ShowForestMap();
                             Console.WriteLine("what would you like to do?");
                             InGoblinCamp();
@@ -345,7 +345,7 @@ namespace EindopdrachtPeriod3
                 switch (choice)
                 {
                     case 1:
-                        GenerateForestMap();
+                        //GenerateForestMap();
                         ShowForestMap();
                         Console.WriteLine("what would you like to do?");
                         InRuins();
@@ -520,7 +520,7 @@ namespace EindopdrachtPeriod3
                 grid[1, 4] = '1';
                 grid[5, 2] = '2';
                 //grid[6, 7] = '3';
-                grid[playerX, playerY] = 'X';
+                //grid[playerX, playerY] = 'X';
             }
 
             void ShowForestMap()
@@ -529,7 +529,13 @@ namespace EindopdrachtPeriod3
                 {
                     for (int j = 0; j < grid.GetLength(1); j++)
                     {
-                        Console.Write(grid[j, i] + " ");
+                        if (j == playerX && i == playerY) 
+                        {
+                            Console.Write("X" + " ");
+                        } else
+                        {
+                            Console.Write(grid[j, i] + " ");
+                        }
                     }
                     Console.WriteLine();
                 }
