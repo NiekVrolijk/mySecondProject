@@ -1,4 +1,5 @@
-﻿using System.Diagnostics.CodeAnalysis;
+﻿using System;
+using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -146,11 +147,11 @@ namespace EindopdrachtPeriod3
             {
                 if (goblinAlive)
                 {
-                    //Console.WriteLine("1. look at map");
-                    //Console.WriteLine("2. go North");
-                    //Console.WriteLine("3. go East");
-                    //Console.WriteLine("4. go South");
-                    //Console.WriteLine("5. go West");
+                    Console.WriteLine("1. look at map");
+                    Console.WriteLine("2. go North");
+                    Console.WriteLine("3. go East");
+                    Console.WriteLine("4. go South");
+                    Console.WriteLine("5. go West");
                     Console.WriteLine("6. ATTACK");
                     Console.WriteLine("7. DEFEND");
                 }
@@ -176,7 +177,15 @@ namespace EindopdrachtPeriod3
                         }
                         else
                         {
-                            Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
+                            //Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
+                            //InGoblinCamp();
+                            //GenerateForestMap();
+                            ShowForestMap();
+                            Console.WriteLine("the goblin took it's change to attack while you where checking your map");
+                            playerHealth -= EatDamage();
+                            Console.WriteLine($"you have {playerHealth} Health left");
+                            Console.WriteLine();
+                            Console.WriteLine("what would you like to do?");
                             InGoblinCamp();
                         }
                         break;
@@ -200,8 +209,27 @@ namespace EindopdrachtPeriod3
                             CheckLocation();
                         } else
                         {
-                            Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
-                            InGoblinCamp();
+                            //Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
+                            //InGoblinCamp();
+                            Console.WriteLine("how many would you like to go north?");
+                            playerYBackup = playerY;
+                            playerXBackup = playerX;
+                            playerY -= int.Parse(Console.ReadLine());
+
+                            if ((playerY < 1 || playerY > 10) || (playerX < 1 || playerX > 10))
+                            {
+                                playerX = playerXBackup;
+                                playerY = playerYBackup;
+                                Console.WriteLine("that is not a choice. What would you like to do?");
+                                InGoblinCamp();
+                            }
+
+                            Console.WriteLine($"you are at X: {playerX} and Y: {playerY}");
+                            Console.WriteLine();
+                            Console.WriteLine("the goblin took it's change to attack while you where moving");
+                            playerHealth -= EatDamage();
+                            Console.WriteLine($"you have {playerHealth} Health left");
+                            CheckLocation();
                         }
                         break;
                     case 3:
@@ -225,8 +253,27 @@ namespace EindopdrachtPeriod3
                         }
                         else
                         {
-                            Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
-                            InGoblinCamp();
+                            //Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
+                            //InGoblinCamp();
+                            Console.WriteLine("how many would you like to go east?");
+                            playerYBackup = playerY;
+                            playerXBackup = playerX;
+                            playerX += int.Parse(Console.ReadLine());
+
+                            if ((playerY < 1 || playerY > 10) || (playerX < 1 || playerX > 10))
+                            {
+                                playerX = playerXBackup;
+                                playerY = playerYBackup;
+                                Console.WriteLine("that is not a choice. What would you like to do?");
+                                InGoblinCamp();
+                            }
+
+                            Console.WriteLine($"you are at X: {playerX} and Y: {playerY}");
+                            Console.WriteLine();
+                            Console.WriteLine("the goblin took it's change to attack while you where moving");
+                            playerHealth -= EatDamage();
+                            Console.WriteLine($"you have {playerHealth} Health left");
+                            CheckLocation();
                         }
                         break;
                     case 4:
@@ -249,8 +296,27 @@ namespace EindopdrachtPeriod3
                         }
                         else
                         {
-                            Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
-                            InGoblinCamp();
+                            //Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
+                            //InGoblinCamp();
+                            Console.WriteLine("how many would you like to go south?");
+                            playerYBackup = playerY;
+                            playerXBackup = playerX;
+                            playerY += int.Parse(Console.ReadLine());
+
+                            if ((playerY < 1 || playerY > 10) || (playerX < 1 || playerX > 10))
+                            {
+                                playerX = playerXBackup;
+                                playerY = playerYBackup;
+                                Console.WriteLine("that is not a choice. What would you like to do?");
+                                InGoblinCamp();
+                            }
+
+                            Console.WriteLine($"you are at X: {playerX} and Y: {playerY}");
+                            Console.WriteLine();
+                            Console.WriteLine("the goblin took it's change to attack while you where moving");
+                            playerHealth -= EatDamage();
+                            Console.WriteLine($"you have {playerHealth} Health left");
+                            CheckLocation();
                         }
                         break;
                     case 5:
@@ -274,8 +340,28 @@ namespace EindopdrachtPeriod3
                         }
                         else
                         {
-                            Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
-                            InGoblinCamp();
+                            //Console.WriteLine("you are in a fight, FIGHT. what would you like to do?");
+                            //InGoblinCamp();
+                            Console.WriteLine("how many would you like to go west?");
+                            playerYBackup = playerY;
+                            playerXBackup = playerX;
+                            playerX -= int.Parse(Console.ReadLine());
+
+                            if ((playerY < 1 || playerY > 10) || (playerX < 1 || playerX > 10))
+                            {
+                                playerX = playerXBackup;
+                                playerY = playerYBackup;
+                                Console.WriteLine("that is not a choice. What would you like to do?");
+                                InGoblinCamp();
+                            }
+
+                            Console.WriteLine($"you are at X: {playerX} and Y: {playerY}");
+                            Console.WriteLine();
+                            Console.WriteLine("the goblin took it's change to attack while you where moving");
+                            playerHealth -= EatDamage();
+                            Console.WriteLine($"you have {playerHealth} Health left");
+                            CheckLocation();
+
                         }
                         break;
                     case 6:
@@ -319,19 +405,147 @@ namespace EindopdrachtPeriod3
                 }
             }
 
-            //void InWeirdShop()
-            //{
-            //    int choice = int.Parse(Console.ReadLine());
-            //    switch (choice)
-            //    {
-            //        case 1:
+            void InWeirdShop()
+            {
+                Console.WriteLine("1. look at map");
+                Console.WriteLine("2. go North");
+                Console.WriteLine("3. go East");
+                Console.WriteLine("4. go South");
+                Console.WriteLine("5. go West");
+                if (!inventory.Contains("wizardSword"))
+                {
+                    Console.WriteLine("6. i need a second sword");
+                }
+                if (playerHealth < 9)
+                {
+                    Console.WriteLine("7. i need my health back");
+                }
 
-            //            break;
-            //        default:
+                int choice = int.Parse(Console.ReadLine());
+                switch (choice)
+                {
+                    case 1:
+                        //GenerateForestMap();
+                        ShowForestMap();
+                        Console.WriteLine("what would you like to do?");
+                        InWeirdShop();
+                        break;
+                    case 2:
+                        Console.WriteLine("how many would you like to go north?");
+                        playerYBackup = playerY;
+                        playerXBackup = playerX;
+                        playerY -= int.Parse(Console.ReadLine());
 
-            //            break;
-            //    }
-            //}
+                        if ((playerY < 1 || playerY > 10) || (playerX < 1 || playerX > 10))
+                        {
+                            playerX = playerXBackup;
+                            playerY = playerYBackup;
+                            Console.WriteLine("that is not a choice. What would you like to do?");
+                            InWeirdShop();
+                        }
+
+                        Console.WriteLine($"you are at X: {playerX} and Y: {playerY}");
+                        CheckLocation();
+                        break;
+                    case 3:
+                        Console.WriteLine("how many would you like to go east?");
+                        playerYBackup = playerY;
+                        playerXBackup = playerX;
+                        playerX += int.Parse(Console.ReadLine());
+
+                        if ((playerY < 1 || playerY > 10) || (playerX < 1 || playerX > 10))
+                        {
+                            playerX = playerXBackup;
+                            playerY = playerYBackup;
+                            Console.WriteLine("that is not a choice. What would you like to do?");
+                            InWeirdShop();
+                        }
+
+                        Console.WriteLine($"you are at X: {playerX} and Y: {playerY}");
+                        CheckLocation();
+                        break;
+                    case 4:
+                        Console.WriteLine("how many would you like to go south?");
+                        playerYBackup = playerY;
+                        playerXBackup = playerX;
+                        playerY += int.Parse(Console.ReadLine());
+
+                        if ((playerY < 1 || playerY > 10) || (playerX < 1 || playerX > 10))
+                        {
+                            playerX = playerXBackup;
+                            playerY = playerYBackup;
+                            Console.WriteLine("that is not a choice. What would you like to do?");
+                            InWeirdShop();
+                        }
+
+                        Console.WriteLine($"you are at X: {playerX} and Y: {playerY}");
+                        CheckLocation();
+                        break;
+                    case 5:
+                        Console.WriteLine("how many would you like to go west?");
+                        playerYBackup = playerY;
+                        playerXBackup = playerX;
+                        playerX -= int.Parse(Console.ReadLine());
+
+                        if ((playerY < 1 || playerY > 10) || (playerX < 1 || playerX > 10))
+                        {
+                            playerX = playerXBackup;
+                            playerY = playerYBackup;
+                            Console.WriteLine("that is not a choice. What would you like to do?");
+                            InWeirdShop();
+                        }
+
+                        Console.WriteLine($"you are at X: {playerX} and Y: {playerY}");
+                        CheckLocation();
+                        break;
+                    case 6:
+                        if (!inventory.Contains("wizardSword"))
+                        {
+                            Console.WriteLine();
+
+                            Console.WriteLine("ah yes a second weapon i shall grant you this");
+                            Console.WriteLine("but it will cost you your normal sword and shield");
+                            inventory.Add("wizardSword");
+                            inventory.Remove("sword");
+                            inventory.Remove("shield");
+
+                            Console.WriteLine("What would you like to do?");
+                            InWeirdShop();
+                        }
+                        else
+                        {
+                            Console.WriteLine();
+
+                            Console.WriteLine("that is not a choice. What would you like to do?");
+                            InWeirdShop();
+                        }
+                        break;
+                    case 7:
+                        if (playerHealth < 9)
+                        {
+                            Console.WriteLine();
+
+                            Console.WriteLine("you are hurt");
+                            Console.WriteLine("take this safe potion to help");
+                            playerHealth = 9;
+
+                            Console.WriteLine("What would you like to do?");
+                            InWeirdShop();
+                        }
+                        else
+                        {
+                            Console.WriteLine();
+
+                            Console.WriteLine("that is not a choice. What would you like to do?");
+                            InWeirdShop();
+                        }
+                        break;
+                    default:
+                        Console.WriteLine("that is not a choice. What would you like to do?");
+                        InWeirdShop();
+                        break;
+                }
+            }
 
             void InRuins()
             {
@@ -426,7 +640,7 @@ namespace EindopdrachtPeriod3
                             Console.WriteLine("you look around and find a sword in a rock");
                             Console.WriteLine("you pull it out and BOOM, it's a magic sword");
                             inventory.Add("magicSword");
-                            inventory.Remove("sword");
+                            //inventory.Remove("sword");
                             magicSwordPickedUp = true;
 
                             Console.WriteLine("What would you like to do?");
@@ -457,10 +671,10 @@ namespace EindopdrachtPeriod3
                 {
                     forest = Forest.ruins;
                 }
-                //else if (playerX == 6 && playerY == 7)
-                //{
-                //    forest = Forest.weirdShop;
-                //}
+                else if (playerX == 6 && playerY == 7)
+                {
+                    forest = Forest.weirdShop;
+                }
                 else
                 {
                     forest = Forest.forest;
@@ -493,10 +707,15 @@ namespace EindopdrachtPeriod3
                     }
                     InGoblinCamp();
                 }
-                //if (forest == Forest.weirdShop)
-                //{
-                //    InWeirdShop();
-                //}
+                if (forest == Forest.weirdShop)
+                {
+                    Console.WriteLine();
+
+                    Console.WriteLine("you've entered a weird shop");
+                    Console.WriteLine("a goofy man speaks to you");
+                    Console.WriteLine("hello what would you like to buy?");
+                    InWeirdShop();
+                }
                 if (forest == Forest.ruins)
                 {
                     Console.WriteLine();
@@ -519,7 +738,7 @@ namespace EindopdrachtPeriod3
                 }
                 grid[1, 4] = '1';
                 grid[5, 2] = '2';
-                //grid[6, 7] = '3';
+                grid[6, 7] = '3';
                 //grid[playerX, playerY] = 'X';
             }
 
@@ -541,7 +760,7 @@ namespace EindopdrachtPeriod3
                 }
                 Console.WriteLine("1 = goblin camp");
                 Console.WriteLine("2 = ruins");
-                //Console.WriteLine("3 = weird shop");
+                Console.WriteLine("3 = weird shop");
                 Console.WriteLine($"you are at X: {playerX + 1} and Y: {playerY + 1}");
                 Console.WriteLine();
             }
@@ -550,13 +769,17 @@ namespace EindopdrachtPeriod3
             int DealDamage()
             {
                 int DeltDamage = playerAttack;
-                if (inventory.Contains("sword"))
-                {
-                    DeltDamage += 1;
-                }
                 if (inventory.Contains("magicSword"))
                 {
                     DeltDamage += 3;
+                }
+                else if (inventory.Contains("sword"))
+                {
+                    DeltDamage += 1;
+                }
+                if (inventory.Contains("wizardSword"))
+                {
+                    DeltDamage += 2;
                 }
                 return DeltDamage;
             }
