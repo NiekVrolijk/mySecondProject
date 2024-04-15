@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "Logic\Logic.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2dArray", "2dArray\2dArray.csproj", "{30251A56-9E88-4186-A748-8841C3D9AE43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EindopdrachtPeriod3", "EindopdrachtPeriod3\EindopdrachtPeriod3.csproj", "{61706741-9913-4F59-B6B5-0A371DD5E318}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EindopdrachtPeriod3", "EindopdrachtPeriod3\EindopdrachtPeriod3.csproj", "{61706741-9913-4F59-B6B5-0A371DD5E318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classesRock`5-4-2024", "classesRock`5-4-2024\classesRock`5-4-2024.csproj", "{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +145,10 @@ Global
 		{61706741-9913-4F59-B6B5-0A371DD5E318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61706741-9913-4F59-B6B5-0A371DD5E318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61706741-9913-4F59-B6B5-0A371DD5E318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

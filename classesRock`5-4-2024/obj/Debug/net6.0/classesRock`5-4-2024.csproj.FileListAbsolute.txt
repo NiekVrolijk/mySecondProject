@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\bin\Debug\net6.0\classesRock`5-4-2024.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\bin\Debug\net6.0\classesRock`5-4-2024.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\bin\Debug\net6.0\classesRock`5-4-2024.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\bin\Debug\net6.0\classesRock`5-4-2024.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\bin\Debug\net6.0\classesRock`5-4-2024.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\obj\Debug\net6.0\classesRock`5-4-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\obj\Debug\net6.0\classesRock`5-4-2024.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\obj\Debug\net6.0\classesRock`5-4-2024.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\obj\Debug\net6.0\classesRock`5-4-2024.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\obj\Debug\net6.0\classesRock`5-4-2024.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\obj\Debug\net6.0\refint\classesRock`5-4-2024.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\obj\Debug\net6.0\classesRock`5-4-2024.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\obj\Debug\net6.0\classesRock`5-4-2024.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\classesRock`5-4-2024\obj\Debug\net6.0\ref\classesRock`5-4-2024.dll
