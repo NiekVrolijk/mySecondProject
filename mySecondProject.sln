@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2dArray", "2dArray\2dArray.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EindopdrachtPeriod3", "EindopdrachtPeriod3\EindopdrachtPeriod3.csproj", "{61706741-9913-4F59-B6B5-0A371DD5E318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classesRock`5-4-2024", "classesRock`5-4-2024\classesRock`5-4-2024.csproj", "{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "classesRock`5-4-2024", "classesRock`5-4-2024\classesRock`5-4-2024.csproj", "{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cashMachine.22-4-2024", "cashMachine.22-4-2024\cashMachine.22-4-2024.csproj", "{96754A92-7061-4665-8AA2-929234CF7115}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -149,6 +151,10 @@ Global
 		{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96754A92-7061-4665-8AA2-929234CF7115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96754A92-7061-4665-8AA2-929234CF7115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96754A92-7061-4665-8AA2-929234CF7115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96754A92-7061-4665-8AA2-929234CF7115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -175,6 +181,7 @@ Global
 		{81E83618-3CA4-4850-9DFE-8D1E52E3741C} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 		{30251A56-9E88-4186-A748-8841C3D9AE43} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 		{61706741-9913-4F59-B6B5-0A371DD5E318} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
+		{96754A92-7061-4665-8AA2-929234CF7115} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC4B2299-BAFE-443E-A38F-567FA4834002}
