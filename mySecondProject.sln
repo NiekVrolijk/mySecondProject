@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EindopdrachtPeriod3", "Eind
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "classesRock`5-4-2024", "classesRock`5-4-2024\classesRock`5-4-2024.csproj", "{FEFDD55A-962D-4655-8DA2-3790A36CB7BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cashMachine.22-4-2024", "cashMachine.22-4-2024\cashMachine.22-4-2024.csproj", "{96754A92-7061-4665-8AA2-929234CF7115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cashMachine.22-4-2024", "cashMachine.22-4-2024\cashMachine.22-4-2024.csproj", "{96754A92-7061-4665-8AA2-929234CF7115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dnd calculator", "dnd calculator\dnd calculator.csproj", "{9213DA04-1E40-4266-B189-9E358F20FD71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -155,6 +157,10 @@ Global
 		{96754A92-7061-4665-8AA2-929234CF7115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96754A92-7061-4665-8AA2-929234CF7115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96754A92-7061-4665-8AA2-929234CF7115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9213DA04-1E40-4266-B189-9E358F20FD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9213DA04-1E40-4266-B189-9E358F20FD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9213DA04-1E40-4266-B189-9E358F20FD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9213DA04-1E40-4266-B189-9E358F20FD71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -182,6 +188,7 @@ Global
 		{30251A56-9E88-4186-A748-8841C3D9AE43} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 		{61706741-9913-4F59-B6B5-0A371DD5E318} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 		{96754A92-7061-4665-8AA2-929234CF7115} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
+		{9213DA04-1E40-4266-B189-9E358F20FD71} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC4B2299-BAFE-443E-A38F-567FA4834002}

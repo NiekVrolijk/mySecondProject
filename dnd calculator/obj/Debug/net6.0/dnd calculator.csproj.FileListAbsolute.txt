@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\bin\Debug\net6.0\dnd calculator.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\bin\Debug\net6.0\dnd calculator.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\bin\Debug\net6.0\dnd calculator.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\bin\Debug\net6.0\dnd calculator.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\bin\Debug\net6.0\dnd calculator.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\obj\Debug\net6.0\dnd calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\obj\Debug\net6.0\dnd calculator.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\obj\Debug\net6.0\dnd calculator.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\obj\Debug\net6.0\dnd calculator.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\obj\Debug\net6.0\dnd calculator.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\obj\Debug\net6.0\refint\dnd calculator.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\obj\Debug\net6.0\dnd calculator.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\obj\Debug\net6.0\dnd calculator.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\dnd calculator\obj\Debug\net6.0\ref\dnd calculator.dll
