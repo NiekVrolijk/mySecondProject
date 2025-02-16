@@ -1,0 +1,14 @@
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\bin\Debug\net6.0\liarsDeckGun.exe
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\bin\Debug\net6.0\liarsDeckGun.deps.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\bin\Debug\net6.0\liarsDeckGun.runtimeconfig.json
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\bin\Debug\net6.0\liarsDeckGun.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\bin\Debug\net6.0\liarsDeckGun.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\obj\Debug\net6.0\liarsDeckGun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\obj\Debug\net6.0\liarsDeckGun.AssemblyInfoInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\obj\Debug\net6.0\liarsDeckGun.AssemblyInfo.cs
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\obj\Debug\net6.0\liarsDeckGun.csproj.CoreCompileInputs.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\obj\Debug\net6.0\liarsDeckGun.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\obj\Debug\net6.0\refint\liarsDeckGun.dll
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\obj\Debug\net6.0\liarsDeckGun.pdb
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\obj\Debug\net6.0\liarsDeckGun.genruntimeconfig.cache
+C:\Users\Niek\OneDrive - SintLucas\Documenten\GitHub\mySecondProject\liarsDeckGun\obj\Debug\net6.0\ref\liarsDeckGun.dll

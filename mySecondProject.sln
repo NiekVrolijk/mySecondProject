@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "classesRock`5-4-2024", "cla
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cashMachine.22-4-2024", "cashMachine.22-4-2024\cashMachine.22-4-2024.csproj", "{96754A92-7061-4665-8AA2-929234CF7115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dnd calculator", "dnd calculator\dnd calculator.csproj", "{9213DA04-1E40-4266-B189-9E358F20FD71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dnd calculator", "dnd calculator\dnd calculator.csproj", "{9213DA04-1E40-4266-B189-9E358F20FD71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liarsDeckGun", "liarsDeckGun\liarsDeckGun.csproj", "{F6A487E5-EBCF-4619-AA57-DC1554E0468F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +163,10 @@ Global
 		{9213DA04-1E40-4266-B189-9E358F20FD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9213DA04-1E40-4266-B189-9E358F20FD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9213DA04-1E40-4266-B189-9E358F20FD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A487E5-EBCF-4619-AA57-DC1554E0468F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A487E5-EBCF-4619-AA57-DC1554E0468F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A487E5-EBCF-4619-AA57-DC1554E0468F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A487E5-EBCF-4619-AA57-DC1554E0468F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -189,6 +195,7 @@ Global
 		{61706741-9913-4F59-B6B5-0A371DD5E318} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 		{96754A92-7061-4665-8AA2-929234CF7115} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 		{9213DA04-1E40-4266-B189-9E358F20FD71} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
+		{F6A487E5-EBCF-4619-AA57-DC1554E0468F} = {DF8B9E65-D15C-4479-B207-1059819F2AC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC4B2299-BAFE-443E-A38F-567FA4834002}
